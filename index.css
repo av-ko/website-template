@@ -5,7 +5,7 @@ body {
     rgba(9, 11, 49, 0) 100%
   );
   background-repeat: no-repeat;
-  filter: drop-shadow(0px 4px 4px rgba(160, 138, 138, 0.25));
+  filter: drop-shadow(0px 4px 4px rgba(227, 172, 227, 0.25));
 }
 
 .intro-section {
